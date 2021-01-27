@@ -1,4 +1,4 @@
-B## Shell Scripts
+BB## Shell Scripts
 Each file in this directory is a script that executes different functions as listed below:
 - 0-current_working_directory: Prints the current working directory.
 - 1-listit: Displays the content list of the current directory.
@@ -10,3 +10,4 @@ Each file in this directory is a script that executes different functions as lis
 - 7-movethatfile: Moves a file "betty" from one directory to another.
 - 8-firstdelete: Deletes the file "betty" from its directory.
 - 9-firstdirdeletion: Deletes the directory "holberton".
+- 10-back: Change the working directory to the previous one. 
