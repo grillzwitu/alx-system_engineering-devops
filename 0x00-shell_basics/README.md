@@ -9,3 +9,4 @@ Each file in this directory is a script that executes different functions as lis
 - 6-firstdirectory: Creates a directory "holberton" in the "/temp" directory.
 - 7-movethatfile: Moves a file "betty" from one directory to another.
 - 8-firstdelete: Deletes the file "betty" from its directory.
+- 9-firstdirdeletion: Deletes the directory "holberton".
