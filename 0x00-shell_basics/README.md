@@ -13,3 +13,4 @@ Each file in this directory is a script that executes different functions as lis
 - 10-back: Change the working directory to the previous one. 
 - 11-lists: lists in long format all files, including hidden files and files that begin with a period character in current, parent and boot directories.
 - 12-file_type: Checks and prints the type of a file "iamafile" in the tmp directory.
+- 13-symbolic_link: Creates asymbolic link to /bin/ls named __ls__.
