@@ -6,4 +6,5 @@ Each file in this directory is a script that executes different functions as lis
 - 3-listfiles: Displays the content directory in long format.
 - 4-listmorefiles: Display's all files including and starting with hidden files in long format
 - 5-listfilesdigitonly: Display's user directory content including and starting with hidden files, in long format,with user and group IDs displayed numerically.
-- 6-firstdirectory: Creates a directory "holberton" in the "/temp" directory. 
+- 6-firstdirectory: Creates a directory "holberton" in the "/temp" directory.
+- 7-movethatfile: Moves a file "betty" from one directory to another.
