@@ -15,3 +15,4 @@ This directory contains executables files(scripts) that are meant to showcase my
 - 12-directory_permissions: Create a directory 'dir_holberton' with permissions 751.
 - 13-change_group: Change the name of the group owner of the file 'hello' to 'holberton'.
 - 14-change_owner_and_group: Change the owner to 'betty' and group owner to 'holberton' for all files and directories in the working directory.
+- 15-symbolic_link_permissions: Change the owner and group owner names to 'betty' and  'holberton' respectively for the symbolic link 'hello'.
