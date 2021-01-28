@@ -1,4 +1,4 @@
-B## Shell Permissions
+## Shell Permissions
 This directory contains executables files(scripts) that are meant to showcase my understanding of shell permissions. The files and their functions  are;
 - 0-iam_betty: Change the userID to betty. Using exactly 8 characters for the command(+1 character for the new line), Assume betty will exist when the scrpt is run.
 - 1-who_am_i: Print the effective userID of the current user.
@@ -11,3 +11,4 @@ This directory contains executables files(scripts) that are meant to showcase my
 - 8-James_Bond: Sets permissions as no permissions for the owner, no permissions for the group owners, and gives all permissions to others.
 - 9-John_Doe: Sets the permissions of the file "hello" as <-rwxr-x-wx>.
 - 10-mirror_permissions: Set the mode of 'hello' to the mode of 'olleh'.
+- 11-directories_permissions: Adds execute permission for all subdirectories of the current working directory for the owner, group owners, and others.
