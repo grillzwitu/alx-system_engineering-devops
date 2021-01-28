@@ -8,7 +8,8 @@ This directory contains executables files(scripts) that are meant to showcase my
 - 5-execute: Add execute permission for the the owner of the file 'hello'.
 - 6-multiple_permissions: Add execution permissions for the owner and group owner and read permission for others.
 - 7-everybody: Give execution permissions to the owner, group owner and others, without using commas in the command.
-- 8-James_Bond: Sets permissions as no permissions for the owner, no permissions for the group owners, and gives all permissions to others.
+- 8-James_Bond: Set permissions as no permissions for the owner, no permissions for the group owners, and gives all permissions to others.
 - 9-John_Doe: Sets the permissions of the file "hello" as <-rwxr-x-wx>.
 - 10-mirror_permissions: Set the mode of 'hello' to the mode of 'olleh'.
-- 11-directories_permissions: Adds execute permission for all subdirectories of the current working directory for the owner, group owners, and others.
+- 11-directories_permissions: Add execute permission for all sub-directories of the current working directory for the owner, group owners, and others.
+- 12-directory_permissions: Create a directory 'dir_holberton' with permissions 751.
