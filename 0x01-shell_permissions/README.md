@@ -13,3 +13,4 @@ This directory contains executables files(scripts) that are meant to showcase my
 - 10-mirror_permissions: Set the mode of 'hello' to the mode of 'olleh'.
 - 11-directories_permissions: Add execute permission for all sub-directories of the current working directory for the owner, group owners, and others.
 - 12-directory_permissions: Create a directory 'dir_holberton' with permissions 751.
+- 13-change_group: Change the name of the group owner of the file 'hello' to 'holberton'.
