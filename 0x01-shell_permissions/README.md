@@ -4,3 +4,4 @@ This directory contains executables files(scripts) that are meant to showcase my
 - 1-who_am_i: Print the effective userID of the current user.
 - 2-groups: Print the group or groups the user is part of.
 - 3-new_owner: Change the ownership of the file 'hello' to betty.
+- 4-empty: Creates an empty file named 'hello'.
