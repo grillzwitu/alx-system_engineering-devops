@@ -6,3 +6,6 @@ This directory contains executables files(scripts) that are meant to showcase my
 - 3-new_owner: Change the ownership of the file 'hello' to betty.
 - 4-empty: Creates an empty file named 'hello'.
 - 5-execute: Add execute permission for the the owner of the file 'hello'.
+- 6-multiple_permissions: Add execution permissions for the owner and group owner and read permission for others.
+- 7-everybody: Give execution permissions to the owner, group owner and others, without using commas in the command.
+- 8-James_Bond: Sets permissions as no permissions for the owner, no permissions for the group owners, and gives all permissions to others.
