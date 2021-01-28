@@ -10,3 +10,4 @@ This directory contains executables files(scripts) that are meant to showcase my
 - 7-everybody: Give execution permissions to the owner, group owner and others, without using commas in the command.
 - 8-James_Bond: Sets permissions as no permissions for the owner, no permissions for the group owners, and gives all permissions to others.
 - 9-John_Doe: Sets the permissions of the file "hello" as <-rwxr-x-wx>.
+- 10-mirror_permissions: Set the mode of 'hello' to the mode of 'olleh'.
