@@ -1,4 +1,4 @@
-## Shell Permissions
+B## Shell Permissions
 This directory contains executables files(scripts) that are meant to showcase my understanding of shell permissions. The files and their functions  are;
 - 0-iam_betty: Change the userID to betty. Using exactly 8 characters for the command(+1 character for the new line), Assume betty will exist when the scrpt is run.
 - 1-who_am_i: Print the effective userID of the current user.
@@ -16,3 +16,4 @@ This directory contains executables files(scripts) that are meant to showcase my
 - 13-change_group: Change the name of the group owner of the file 'hello' to 'holberton'.
 - 14-change_owner_and_group: Change the owner to 'betty' and group owner to 'holberton' for all files and directories in the working directory.
 - 15-symbolic_link_permissions: Change the owner and group owner names to 'betty' and  'holberton' respectively for the symbolic link 'hello'.
+- 16-of_only: Change the owner of the file 'hello' to 'betty' only if it is owned by the user 'guillame'.
