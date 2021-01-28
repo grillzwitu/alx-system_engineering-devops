@@ -5,3 +5,4 @@ This directory contains executables files(scripts) that are meant to showcase my
 - 2-groups: Print the group or groups the user is part of.
 - 3-new_owner: Change the ownership of the file 'hello' to betty.
 - 4-empty: Creates an empty file named 'hello'.
+- 5-execute: Add execute permission for the the owner of the file 'hello'.
