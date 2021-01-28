@@ -11,6 +11,7 @@ This directory contains executables files(scripts) that are meant to showcase my
 - 8-James_Bond: Set permissions as no permissions for the owner, no permissions for the group owners, and gives all permissions to others.
 - 9-John_Doe: Sets the permissions of the file "hello" as <-rwxr-x-wx>.
 - 10-mirror_permissions: Set the mode of 'hello' to the mode of 'olleh'.
-- 11-directories_permissions: Add execute permission for all sub-directories of the current working directory for the owner, group owners, and others.
+- 11-directories_permissions: Add execute permission for only sub-directories and not files of the current working directory for the owner, group owners, and others.
 - 12-directory_permissions: Create a directory 'dir_holberton' with permissions 751.
 - 13-change_group: Change the name of the group owner of the file 'hello' to 'holberton'.
+- 14-change_owner_and_group: Change the owner to 'betty' and group owner to 'holberton' for all files and directories in the working directory.
