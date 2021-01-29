@@ -19,3 +19,4 @@ Each file in this directory is a script that executes different functions as lis
 - 16-clean_emacs: Delete all files in the current working directory that ends with "~".
 - 17-tree: Create in the current working directory the directories "welcome/", "welcome/to/", "welcome/to/holberton".
 - 18-commas: Lists all files and directories in the current working directory separated by, directories end with "/", files and directories begin with ".", listing should be alpha ordered except for directories "." and ".." which should be listed at the beginning, only digits and letters are used to sort and digits come first, listing should end with a new line, assuming all files have at least one letter and one digit.
+- holberton.mgc: Create a magic file 'holberton.mgc' that can be used with the command 'file' to detect 'Holberton' data files. These data files contain the string 'HOLBERTON' at the '0' offset.
