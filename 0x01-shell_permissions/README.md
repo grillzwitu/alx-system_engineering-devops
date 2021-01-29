@@ -17,3 +17,5 @@ This directory contains executables files(scripts) that are meant to showcase my
 - 14-change_owner_and_group: Change the owner to 'betty' and group owner to 'holberton' for all files and directories in the working directory.
 - 15-symbolic_link_permissions: Change the owner and group owner names to 'betty' and  'holberton' respectively for the symbolic link 'hello'.
 - 16-of_only: Change the owner of the file 'hello' to 'betty' only if it is owned by the user 'guillame'.
+- 100-Star_Wars: A script that plays the **Stars Wars IV** episode in the terminal.
+- 101-man_holberton: A man page that prints the output '17 78 519 101-man_holberton' when the command 'wc 101-man_holberton' is entered.  
