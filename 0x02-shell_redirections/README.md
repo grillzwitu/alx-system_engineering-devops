@@ -1,5 +1,6 @@
 ## Shell, I/O Redirections and Filters
 This directory contains files that test and showcase my understanding of shell input and output redirctions and filters. These are executable scripts that do the following;
-- 0-hello_world: Prints 'Hello World" followed by a new line.
-- 1-confused_smiley: Display the confused smiley "(Ôo)'.
-- 2-hellofile: Display the content of /etc/password.
+- 0-hello_world: Prints __Hello World__ followed by a new line.
+- 1-confused_smiley: Display the confused smiley __"(Ôo)'__.
+- 2-hellofile: Display the content of __/etc/passwd__.
+- 3-twofiles: Display two files __/etc/passwd__ and __/etc/hosts__.
