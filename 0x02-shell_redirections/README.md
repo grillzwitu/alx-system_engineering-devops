@@ -6,3 +6,4 @@ This directory contains files that test and showcase my understanding of shell i
 - 3-twofiles: Display two files __/etc/passwd__ and __/etc/hosts__.
 - 4-lastlines: Display the last 10 lines of the file __/etc/passwd__.
 - 5-firstlines: Display the first 10 lines of __/etc/passwd__.
+- 6-third_line: Display the third line of the file __iacta__.
