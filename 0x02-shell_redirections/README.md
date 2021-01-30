@@ -7,3 +7,4 @@ This directory contains files that test and showcase my understanding of shell i
 - 4-lastlines: Display the last 10 lines of the file __/etc/passwd__.
 - 5-firstlines: Display the first 10 lines of __/etc/passwd__.
 - 6-third_line: Display the third line of the file __iacta__.
+- 7-file: Create a file named "__\*\\'"Holberton School"\'\\*$\?\*\*\*\*\*:)__", that contains the text __Holberton School__.
