@@ -9,3 +9,4 @@ This directory contains files that test and showcase my understanding of shell i
 - 6-third_line: Display the third line of the file __iacta__.
 - 7-file: Create a file named "__\*\\'"Holberton School"\'\\*$\?\*\*\*\*\*:)__", that contains the text __Holberton School__.
 - 8-cwd_state: Writes into the file __ls_cwd_content__ the result of the command __ls -la__.
+- 9-duplicate_last_line: Duplicate the last line of the file __iacta__.
