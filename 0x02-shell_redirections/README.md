@@ -14,4 +14,5 @@ This directory contains files that test and showcase my understanding of shell i
 - 11-directories: Count the number of directories and subdirectories in the the current directory, excluding the current and parent directory.
 - 12-newest_files: Display 10 newest files in the current directory.
 - 13-unique: Takes a list of words as input and only print words that appear at least once.
-- 
+- 14-findthatword: Display lines containing the pattern “root” from the file __/etc/passwd__.
+- 15-countthatword: Display the number of lines that contain the pattern “bin” in the file __/etc/passwd__.
