@@ -20,4 +20,4 @@ This directory contains files that test and showcase my understanding of shell i
 - __17-hidethisword__: Display all the lines in the file __/etc/passwd__ that do not contain the pattern __bin__.
 - __18-letteronly__: Display all lines of the file __/etc/ssh/sshd_config__ starting with a letter, include capital letters.
 - __19-AZ__: Replace all characters __A__ and __c__ from input to __Z__ and __e__ respectively.
-- 
+- __20-hiago__:  Remove all letters __c__ and __C__ from input.
