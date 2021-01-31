@@ -1,5 +1,5 @@
 ## Shell, I/O Redirections and Filters
-This directory contains files that test and showcase my understanding of shell input and output redirctions and filters. These are executable scripts that do the following;
+This directory contains files that test and showcase my understanding of shell input and output redirections and filters. These are executable scripts that do the following;
 - __0-hello_world__: Prints __Hello World__ followed by a new line.
 - __1-confused_smiley__: Display the confused smiley __"(Ôo)'__.
 - __2-hellofile__: Display the content of __/etc/passwd__.
@@ -22,3 +22,4 @@ This directory contains files that test and showcase my understanding of shell i
 - __19-AZ__: Replace all characters __A__ and __c__ from input to __Z__ and __e__ respectively.
 - __20-hiago__:  Remove all letters __c__ and __C__ from input.
 - __21-reverse__: Reverses its input.
+- __22-users_and_homes__: Display all users and their home directories, sorted by users, based on the the __/etc/passwd__ file.
