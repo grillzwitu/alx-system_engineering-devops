@@ -13,7 +13,7 @@ This directory contains files that test and showcase my understanding of shell i
 - __10-no_more_js__: Delete all the regular files (not the directories) with a __.js__ extension that are present in the current directory and all its subfolders.
 - __11-directories__: Count the number of directories and subdirectories in the the current directory, excluding the current and parent directory.
 - __12-newest_files__: Display 10 newest files in the current directory.
-- __13-unique__: Takes a list of words as input and only print words that appear at least once.
+- __13-unique__: Takes a __list__ of words as input and only print words that appear at least once.
 - __14-findthatword__: Display lines containing the pattern __root__ from the file __/etc/passwd__.
 - __15-countthatword__: Display the number of lines that contain the pattern __bin__ in the file __/etc/passwd__.
 - __16-whatsnext__: Display lines containing the pattern __root__ and 3 lines after them in the file __/etc/passwd__.
@@ -21,3 +21,4 @@ This directory contains files that test and showcase my understanding of shell i
 - __18-letteronly__: Display all lines of the file __/etc/ssh/sshd_config__ starting with a letter, include capital letters.
 - __19-AZ__: Replace all characters __A__ and __c__ from input to __Z__ and __e__ respectively.
 - __20-hiago__:  Remove all letters __c__ and __C__ from input.
+- __21-reverse__: Reverses its input.
