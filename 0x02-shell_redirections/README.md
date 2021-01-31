@@ -11,3 +11,5 @@ This directory contains files that test and showcase my understanding of shell i
 - 8-cwd_state: Writes into the file __ls_cwd_content__ the result of the command __ls -la__.
 - 9-duplicate_last_line: Duplicate the last line of the file __iacta__.
 - 10-no_more_js: Delete all the regular files (not the directories) with a __.js__ extension that are present in the current directory and all its subfolders.
+- 11-directories: Count the number of directories and subdirectories in the the current directory, excluding the current and parent directory.
+ 
