@@ -7,3 +7,5 @@ This directory contains files which are executable scripts that demonstrate the 
 - __4-global_variables__: Lists environment variables.
 - __5-local_variables__:  Lists all local variables and environment variables, and functions.
 - __6-create_local_variable__: Create a new local variable, __name__: __BETTY__ __value__: __Holberton__.
+- __7-create_global_variable__: Create a new global variable, __name__:__HOLBERTON__
+__value__:__Betty__.
