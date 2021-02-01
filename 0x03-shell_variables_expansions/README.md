@@ -14,3 +14,5 @@ __value__:__Betty__.
 - __10-love_exponent_breath__: Display the result of the environment variables __BREATH__ to the power __LOVE__, followed by a new line.
 - __11-binary_to_decimal__:  Convert a number from base 2 to base 10, the number in base 2 is stored in the environment variable __BINARY__, the script displays the number in base 10, followed by a new line.
 - __12-combinations__:  Print all possible combinations of two letters, except __oo__, letters are lower cases, from __a__ to __z__, one combination per line,t he output should be alpha ordered, starting with __aa__, andshould contain maximum 64 characters.
+- __13-print_float__: Print a number with two decimal places,the number will be stored in the environment variable __NUM__.
+- __14-decimal_to_hexadecimal__:  Convert a number from base 10 to base 16, the number in base 10 is stored in the environment variable __DECIMAL__, the script displays the number in base 16, followed by a new line.
