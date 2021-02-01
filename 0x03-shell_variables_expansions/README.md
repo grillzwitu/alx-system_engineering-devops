@@ -13,3 +13,4 @@ __value__:__Betty__.
 - __9-divide_and_rule__: Print the result of the environment variables __POWER__ divided by __DIVIDE__, followed by a new line.
 - __10-love_exponent_breath__: Display the result of the environment variables __BREATH__ to the power __LOVE__, followed by a new line.
 - __11-binary_to_decimal__:  Convert a number from base 2 to base 10, the number in base 2 is stored in the environment variable __BINARY__, the script displays the number in base 10, followed by a new line.
+- __12-combinations__:  Print all possible combinations of two letters, except __oo__, letters are lower cases, from __a__ to __z__, one combination per line,t he output should be alpha ordered, starting with __aa__, andshould contain maximum 64 characters.
