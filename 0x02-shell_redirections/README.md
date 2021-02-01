@@ -23,3 +23,4 @@ This directory contains files that test and showcase my understanding of shell i
 - __20-hiago__:  Remove all letters __c__ and __C__ from input.
 - __21-reverse__: Reverses its input.
 - __22-users_and_homes__: Display all users and their home directories, sorted by users, based on the the __/etc/passwd__ file.
+- __100-empty_casks__:  Find all empty files and directories in the current directory and all sub-directories. Only the names of the files and directories should be displayed (not the entire path), hidden files should be listed, one file name per line, the listing should end with a new line, you are not allowed to use basename, grep, egrep, fgrep or rgrep.
