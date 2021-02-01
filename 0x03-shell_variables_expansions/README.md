@@ -17,3 +17,5 @@ __value__:__Betty__.
 - __13-print_float__: Print a number with two decimal places,the number will be stored in the environment variable __NUM__.
 - __14-decimal_to_hexadecimal__:  Convert a number from base 10 to base 16, the number in base 10 is stored in the environment variable __DECIMAL__, the script displays the number in base 16, followed by a new line.
 - __100-rot13__:  Encodes and decodes text using the rot13 encryption. Assume ASCII.
+- __101-odd__: Prints every other line from the input, starting with the first line.
+- __102-water_and_stir__: Adds the two numbers stored in the environment variables __WATER__ and __STIR__ and prints the result, __WATER__ is in base water, __STIR__ is in base stir, the result should be in base __behlnort__.
