@@ -6,3 +6,4 @@ This directory contains files which are executable scripts that demonstrate the 
 - __3-paths__: Count the number of directories in the __PATH__.
 - __4-global_variables__: Lists environment variables.
 - __5-local_variables__:  Lists all local variables and environment variables, and functions.
+- __6-create_local_variable__: Create a new local variable, __name__: __BETTY__ __value__: __Holberton__.
