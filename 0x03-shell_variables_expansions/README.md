@@ -16,3 +16,4 @@ __value__:__Betty__.
 - __12-combinations__:  Print all possible combinations of two letters, except __oo__, letters are lower cases, from __a__ to __z__, one combination per line,t he output should be alpha ordered, starting with __aa__, andshould contain maximum 64 characters.
 - __13-print_float__: Print a number with two decimal places,the number will be stored in the environment variable __NUM__.
 - __14-decimal_to_hexadecimal__:  Convert a number from base 10 to base 16, the number in base 10 is stored in the environment variable __DECIMAL__, the script displays the number in base 16, followed by a new line.
+- __100-rot13__:  Encodes and decodes text using the rot13 encryption. Assume ASCII.
