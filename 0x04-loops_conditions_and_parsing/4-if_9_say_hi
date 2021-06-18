@@ -1,0 +1,13 @@
+#!/usr/bin/env bash
+# prints "Holberton School" and "Hi" on the 9th iteration
+
+i=0
+while ((i < 10))
+do
+    echo "Holberton School"
+    if ((i == 8))
+    then
+        echo "Hi"
+    fi
+    i=$((i+1))
+done
