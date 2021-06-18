@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+# reads the /etc/passwd file and prints username, group id and home dir
+
+while read l
+do
+    paste -d: <(echo "$l" | cut -d ":" -f1) <(echo "$l" | cut -d ":" -f4) <(echo "$l" | cut -d ":" -f6)
+done < "/etc/passwd"
