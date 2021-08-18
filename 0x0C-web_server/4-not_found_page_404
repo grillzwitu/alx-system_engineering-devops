@@ -12,3 +12,4 @@ sudo sed -i "27i $newlines" /etc/nginx/sites-available/default
 
 # restart nginx server
 sudo service nginx restart
+
