@@ -3,5 +3,5 @@
 
 sudo apt-get -y update
 sudo apt-get -y install haproxy
-echo -e "\nfrontend front\n\tbind *:80\n\tmode http\n\tdefault_backend back\n\nbackend back\n\tbalance roundrobin\n\tserver 210-web-01 35.231.195.110:80 check\n\tserver 210-web-02 35.243.157.198:80 check" >> /etc/haproxy/haproxy.cfg
+sudo echo -e "\nfrontend front\n\tbind *:80\n\tmode http\n\tdefault_backend back\n\nbackend back\n\tbalance roundrobin\n\tserver 210-web-01 35.231.195.110:80 check\n\tserver 210-web-02 35.243.157.198:80 check" >> /etc/haproxy/haproxy.cfg
 sudo service haproxy restart
