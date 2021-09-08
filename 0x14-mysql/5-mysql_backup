@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+# this script uses mysqldump to backup and zip databases
+
+# The MySQL dump must contain all your MySQL databases
+mysqldump -uroot -p$"1" --all-databases > backup.sql
+# The MySQL dump file has to be compressed to a tar.gz archive with the name
+#+ format day-month-year.tar.gz
+tar -cvzf "$(date +"%d-%m-%Y").tar.gz" backup.sql
